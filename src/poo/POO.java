@@ -19,7 +19,7 @@ public class POO {
     public static void main(String[] args) {
         
         
-        System.out.println("Resultado: "+ Calculo.elevar());
+      
 
         Carro meuCarro = new Carro();
 
